@@ -1,5 +1,8 @@
 # Change Log
 
+## v0.1.4 (2017-06-06)
+* `constructor` takes `options.connectionOption`
+
 ## v0.1.3 (2016-09-24)
 * `emitter` minor
 
